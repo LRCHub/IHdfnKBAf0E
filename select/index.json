@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Jupiter",
+  "base_artist": "平原綾香",
+  "createdAt": "2025-12-02T17:52:40.293417Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everything I Wanted (Jupiter 6 Soul Surround mix)",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/01_Everything_I_Wanted_(Jupiter_6_Soul_Surround_mix)_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nightdrive With You (Jupiter Remix)",
+      "artist": "Anoraak",
+      "has_synced": false,
+      "path": "select/02_Nightdrive_With_You_(Jupiter_Remix)_Anoraak.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Modern Jupiter",
+      "artist": "Piano Magic",
+      "has_synced": false,
+      "path": "select/03_Modern_Jupiter_Piano_Magic.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jupiter Crash",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/04_Jupiter_Crash_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Clash (Jupiter Remix)",
+      "artist": "Caravan Palace",
+      "has_synced": false,
+      "path": "select/05_Clash_(Jupiter_Remix)_Caravan_Palace.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jupiter Room",
+      "artist": "Digitalism",
+      "has_synced": false,
+      "path": "select/06_Jupiter_Room_Digitalism.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jupiter Room (Erol Alkan's Simple Yet Effective edit)",
+      "artist": "Digitalism",
+      "has_synced": false,
+      "path": "select/07_Jupiter_Room_(Erol_Alkan's_Simple_Yet_Effective_edit)_Digitalism.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jupiter Room (Martian Assault Mix)",
+      "artist": "Digitalism",
+      "has_synced": false,
+      "path": "select/08_Jupiter_Room_(Martian_Assault_Mix)_Digitalism.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jupiter Island",
+      "artist": "Porcupine Tree",
+      "has_synced": true,
+      "path": "select/09_Jupiter_Island_Porcupine_Tree.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jupiter Island",
+      "artist": "Porcupine Tree",
+      "has_synced": true,
+      "path": "select/10_Jupiter_Island_Porcupine_Tree.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Zdarlight \u0000 I Want I Want (Live @ The Bunker) \u0000 Jupiter Room (Planetary Lobby Version)",
+      "artist": "Digitalism",
+      "has_synced": true,
+      "path": "select/11_Zdarlight_\u0000_I_Want_I_Want_(Live_@_The_Bunker)_\u0000_Jupiter_Room_(Planetary_Lobby_Ve_Digitalism.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Of Jupiter and Moons",
+      "artist": "Temperance",
+      "has_synced": true,
+      "path": "select/12_Of_Jupiter_and_Moons_Temperance.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jupiter",
+      "artist": "H1",
+      "has_synced": false,
+      "path": "select/13_Jupiter_H1.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bridges To Jupiter",
+      "artist": "Wheatus",
+      "has_synced": false,
+      "path": "select/14_Bridges_To_Jupiter_Wheatus.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jupiter",
+      "artist": "平原 綾香",
+      "has_synced": false,
+      "path": "select/pl_01_Jupiter_平原_綾香.txt"
+    }
+  ]
+}
